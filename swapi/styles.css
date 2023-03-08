@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    border: solid 50px;
+    border-color: aquamarine;
+    height: 100%;
+
+}
+
+input {
+    border-radius: 0;
+    height: 25px;
+}
+
+button {
+    border-radius: 50px;
+}
